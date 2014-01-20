@@ -1,4 +1,4 @@
-/*
+/*        
  * 8 neighbors
  * live- < 2 dies
  * live- 2-3 live
