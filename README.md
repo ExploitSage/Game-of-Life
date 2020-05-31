@@ -1,4 +1,3 @@
-GameOfLife
-==========
+# Game-of-Life
+Conway's Game of Life written in Java
 
-Conway's Game Of Life written in Java
